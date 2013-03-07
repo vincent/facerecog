@@ -1,0 +1,4 @@
+facerecog
+=========
+
+Face recognition app
